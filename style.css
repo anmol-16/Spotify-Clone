@@ -1,0 +1,59 @@
+.nav{
+
+}
+.company{
+    font-family: 'Roboto', sans-serif;
+    text: white;
+    background-color: black;
+    margin: 0px 0px;
+    padding: 0px;
+    border: 0px;
+}
+.class1{
+    text-align: center;
+}
+.page1h1{
+    padding-inline-start: 40px;
+    text-align: center;
+}
+
+.linksToOther{
+    font-family: 'Roboto', sans-serif;
+}
+.page1{
+    background-color:#4287f5;
+    font-family: spotify-circular, Circular, Helvetica, Arial, sans-serif;
+    width: 100%;
+    height: 500px;
+}
+.introduce{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    height: 400px;
+    width: 100%;
+    border: 0px;
+}
+.introButton{
+    border-radius: 20px;
+    padding: 12px 28px;
+    font-size: 14px;
+    position: relative;
+    top: 20%;
+    left: 44%;
+}
+.month{
+    border-radius: 20px;
+    padding: 12px 28px;
+    font-size: 14px;
+    position: relative;
+    top: 20%;
+    left: 39%;
+}
+.month2{
+    border-radius: 20px;
+    padding: 12px 28px;
+    font-size: 14px;
+    position: relative;
+    top: 20%;
+    left: 39%;
+}
